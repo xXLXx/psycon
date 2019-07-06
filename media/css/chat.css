@@ -1,0 +1,64 @@
+#chat_window{ overflow:auto; padding:0; }
+
+#chat_window .interior div{ padding:10px; border-bottom:solid 1px #C0C0C0; border-top:solid 1px #FFF; }
+#chat_window .interior div:first-child{ border-top:none; }
+#chat_window .interior div:last-child{ border-bottom:none; }
+
+#chat_window .interior .timer{ color:gray; background:lightyellow; text-shadow:1px 1px #FFF; font-weight:normal; font-size:10px; font-style:italic; }
+#chat_window .interior .system{ color:white; background:darkgray; text-shadow:1px 1px #666; font-weight:bold; }
+#chat_window .interior .client{ color:black; }
+#chat_window .interior .reader{ color:blue; }
+
+#footer{ margin:20px 0 0; }
+#footer .navbar-inner{ padding:15px 15px 0 15px; }
+#footer textarea{ font-size:14px; line-height:18px; color:#666; height:50px; border:none; padding:5px; margin:0; }
+
+.isTyping{ color:#FFF; font-size:11px; padding:5px 0; height:25px; }
+
+#timerSpan{ cursor: pointer; }
+.pauseClass{ color:red; }
+
+#chatForm{ margin-bottom:0; }
+
+.chat_reader { color:#0000FF;}
+.chat_client { color:#000;}
+.chat_username { font-weight:bold; color:#999;}
+
+.Left {float:left}
+.Right {float:right}
+.Clr {clear:both}
+
+.SpecialAlert{
+	font-weight: bold;
+	color:#DF8505;
+}
+
+.Pointer {
+	cursor:pointer;
+}
+
+.Wait {
+	cursor:wait;
+}
+
+.Hidden {
+	display: none;
+}
+
+.ChatRedBackground {
+	background-color:#CC2929;
+}
+
+.noclose .ui-dialog-titlebar-close
+{
+    display:none;
+}
+
+.dialogContent{
+	font-size:11px;
+}
+.dialogContent a {
+	text-decoration: underline;
+	color:blue;
+}
+

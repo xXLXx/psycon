@@ -1,0 +1,29 @@
+.head-image-setting {
+	float:right;
+	width:100px;
+}
+
+.chat-topic-input {
+	width:100%;
+}
+
+.chat-minute-select {
+	margin-bottom:25px;
+}
+
+#chat_room #input_message {
+	width:120px;
+}
+
+#remainingStoredTimeInput_div {
+	float:left; width:210px;
+}
+
+
+#remaining_stored_time-slider-range-max {
+	width:380px;
+}
+
+#addFreeTimeInput_div {
+	float:left; width:400px;
+}

@@ -1,0 +1,60 @@
+Hi All
+
+Here's a link to the chattesting admin section
+
+http://www.psychic-contact.com/modules/chattestingform/admin.php
+pw: abc123
+
+What might be easier is to load the page, then take a piece of the error messages below and do a Ctrl + F to find the text in the page. We were using date/time as it was pretty unique identifier, but now that the 1969 times are showing up - this isn't working so good... I should add sessionID to the feedback so we can tie to to a session for the reader. At the top of the feedback it shows who is submitting the feedback (client or reader in bold)
+
+Once you find the error/issue mention on the page you can read the feedback notes in it's entirety so you can see what happened and why.
+
+07/23/2015 is the chat date in question. There's a few test submissions 'h' and 'f's in it only, so that's the delimited to know you've reached the end of 7/23 chat and would be looking at 7/1 chats
+
+List of error comments, or items that seems odd
+--
+
+(In order from top of page to end of 7/23 chats)
+
+1. 45 second timer appeared only 2 times with no real rhyme or reason as to why
+when timer did come up it worked properly. but only came up as expected 2 times
+please see written report emailed to Jayson on 7/23
+
+2.start chat button never appeared. but was viewing status from different browser (not logged in as reader or client)
+Attempt 1, seemed to be working properly from client side. Clicked to continue to chat and timer popped up with 45 second count down. Let the clock run out and it closed properly, but when I clicked to choose another psychic, I came back to the Continue to Chat page and when I click the Continue to Chat button, nothing would happen. I only managed to get the timer to come up for me twice in all of the times I attempted to chat with someone (FYI, I tried to chat with everyone I could see online) Same result.
+please see written report emailed to Jayson on 7/23
+
+3. The login button that you the user clicks on to upon entering their password - would be better placed directly below the input entry for the password. Otherwise if you are on a smart phone - the login button is not in visual range. You have to take you finger and swipe to the left.
+
+4.i did notice at time, bcs on mobile in order to see timer or end chat button i had to scroll to it.
+
+5. each time i was unable to connect i refreshed each time i went to attempt new connect with any reader
+yes this chat connected successful, however, i believe my internet on mobile interrupted and i was disconnected, it only happened this once, never again
+
+6. Again, I had some trouble with the dev site vanishing when I clicked on client's name. I had to do the whole URL thing over and log in again.
+
+7. No. I had a bit of trouble with it because it kept vanishing and then prompting me to log in which I had already done before it vanished so I had to put in the URL again and log in again.
+
+8.When I clicked start chat, the entire page disappeared and I got an error message that I had to log in before I could chat. That caused a delay while I was writing in the URL again and logging in again. The client had vanished by that time. Then the client returned and all was well.
+
+9. Chat page loaded quickly	: no, was slow
+
+10. Chat timer countdown: no countdown
+
+11. The chat seems to get stuck for a second at times
+
+12. It was showing online when I was in the chat with her, I kept the site open on two tabs so I could check this, even if I hit refresh
+
+13. Please put the login button directly underneath the input field for the password.
+
+14. had to attempt to chat with Raven three times before I was able to do so
+
+15. Acting Normal, but I had a hard time finding a psychic to connect with because it kept failing until I finally reached Raven.
+
+16. Upon the user entering their name and password.. move the login button directly underneath the password input field. When you are on a mobile device.. the button to press after you entered your password is hidden.. unless you finger swipe to the left.. If you do that .. then the button is in view and you can press it.
+
+17. It froze during our session
+
+
+
+
